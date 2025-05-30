@@ -1,0 +1,23 @@
+{
+    "Seoul": [
+        {
+            "date": "2025-05-30",
+            "temperature": 27.76,
+            "humidity": 30
+        }
+    ],
+    "Busan": [
+        {
+            "date": "2025-05-30",
+            "temperature": 22.99,
+            "humidity": 49
+        }
+    ],
+    "Incheon": [
+        {
+            "date": "2025-05-30",
+            "temperature": 24.93,
+            "humidity": 53
+        }
+    ]
+}
